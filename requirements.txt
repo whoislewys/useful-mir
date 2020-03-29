@@ -8,4 +8,5 @@ pyaudio
 pyfftw
 madmom
 
+matplotlib
 librosa
