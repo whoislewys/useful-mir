@@ -1,1 +1,11 @@
+jupyter
+
+numpy
+scipy
+cython
+mido
+pyaudio
+pyfftw
 madmom
+
+librosa
